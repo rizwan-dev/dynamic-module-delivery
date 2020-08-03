@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features",
+      "sdkFolder": "C:\\Users\\Imran\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\build\\intermediates",
+      "gradleModulePathName": ":native",
+      "moduleRootFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native",
+      "makeFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\.cxx",
+      "cxxFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx",
+      "ndkFolder": "C:\\Users\\Imran\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669",
+      "ndkVersion": "21.0.6113669",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "debug",
+    "soFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64",
+  "jsonFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64",
+  "objFolder": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\build\\intermediates\\cmake\\debug\\obj\\x86_64",
+  "buildCommandFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\build_command.txt",
+  "buildOutputFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\build_output.txt",
+  "modelOutputFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cxx\\debug\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\dev\\POC\\dynamicDelivery\\android-dynamic-features\\features\\native\\.cxx\\cmake\\debug\\x86_64\\compile_commands.json"
+}
